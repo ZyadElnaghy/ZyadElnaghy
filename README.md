@@ -24,8 +24,8 @@
 
  ## Operating Systems:
 <p align="left">
-  <a href="#"><img align="left" src="https://i.redd.it/ms9je823h6y31.png" alt="pop os " width="40" height="40"/> 
-  <a href="#"><img align="left" src="https://betanews.com/wp-content/uploads/2015/06/win10-logo.jpg" alt="windwos 10 " width="80" height="40"/> 
+  <a href="#"><img align="left" src="https://i.redd.it/ms9je823h6y31.png" alt="pop os " width=35" height="35"/> 
+  <a href="#"><img align="left" src="https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/windows_10-512.png" alt="windwos 10 " width="40" height="40"/> 
 </p>
 
  <br>
