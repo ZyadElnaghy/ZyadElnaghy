@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zyad Elnaghy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadelnaghy&label=Profile%20views&color=0e75b6&style=flat" alt="zyadelnaghy" /> </p>
 
+- :school: I am a `Junior` at [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
 - 🌱 I’m currently learning **Computer Science and Software Engineering.**
+- :computer: I am a competitive programmer at `Codeforces`,`Leetcode`.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
