@@ -23,14 +23,13 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  </p>
 
  <h3 align="left">Operating Systems:</h3>
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
+<p align="left">
+  <img align="left" src="https://i.redd.it/ms9je823h6y31.png" alt="pop os " width="40" height="40"/> 
+  <img align="left" src="https://betanews.com/wp-content/uploads/2015/06/win10-logo.jpg" alt="windwos 10 " width="80" height="40"/> 
 </p>
 
  <br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyadelnaghy&show_icons=true&locale=en&layout=compact" alt="zyadelnaghy" /></p>
 
