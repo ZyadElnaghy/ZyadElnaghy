@@ -22,12 +22,20 @@
 <a href="https://atcoder.jp/users/Zyad_elnaghy" target="blank"><img align="center" src="https://img.atcoder.jp/assets/icon/avatar.png" alt="zyad_elnaghy" height="40" width="40" /></a>
 
 ## Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  </p>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title ="C" alt="C" width="40" height="40"/> </a> 
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title ="C++" alt="C++" width="40" height="40"/> </a> 
+</p>
 
  ## Operating Systems:
 <p align="left">
-  <a href="#"><img align="left" src="https://i.redd.it/ms9je823h6y31.png" alt="pop OS " width=40" height="40"/> 
-  <a href="#"><img align="left" src="https://images.idgesg.net/images/article/2017/10/windows-10-logo-100739284-large.jpg" alt="windwos 10 " width="55" height="40"/> 
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
 </p>
 
  <br> <br> <br> <br>
