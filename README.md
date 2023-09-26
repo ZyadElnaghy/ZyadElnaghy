@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Zyad Elnaghy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
+## About Me:
 - :school: I am a `Junior` at [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
 - 🌱 I’m currently learning **Computer Science and Software Engineering.**
 - :computer: I am a competitive programmer at `Codeforces`,`Leetcode`,`AtCoder`.
