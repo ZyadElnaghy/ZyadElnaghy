@@ -33,7 +33,7 @@
   </a> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title ="HTML" width="75" hight="75" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title ="CSS" width="75" hight="75" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title ="JS" width="75" hight="75" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title ="JavaScript" width="75" hight="75" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title ="Vs Code" width="75" hight="75" />
     <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" title ="Git" width="75" hight="75"/>
 </p>
