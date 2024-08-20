@@ -1,56 +1,62 @@
 <h1 align="center">Hi , I'm Zyad Elnaghy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-## About Me:
-- :school: I am a `Senior` at [Faculty of Computers & Informatics](https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) in [Suez Canal University](https://suez.edu.eg/ar/).
-- 🌱 I’m currently learning **Computer Science and Software Engineering.**
-- :computer: I am a competitive programmer at `Codeforces`,`Leetcode`,`AtCoder`.
+# 💫About Me :
+- 🏫 I am a Senior at Faculty of Computers & Informatics in Suez Canal University.
+- 🌱 I’m currently learning Computer Science and Software Engineering.
+- 💻 I am a competitive programmer at `Codeforces`,`Leetcode`,`AtCoder`.
 
-## Connect with me:
-<p align="center">
-<a href="https://www.linkedin.com/in/zyad-elnaghy-58a7a5248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zyad elnaghy" height="55" width="55"   /></a>
-<a href="https://www.facebook.com/profile.php?id=100004502388535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zyad elnaghy" height="55" width="55" /></a>
-<a href="https://instagram.com/zyad_elnaghy58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zyad_elnaghy58" height="55" width="55" /></a>
-<a href="mailto:zyadelnaghy@gmail.com"><img align="center" src="https://i0.wp.com/cyberintro.net/wp-content/uploads/2018/04/Gmail.png" alt="Gmail" height="65" width="65" /></a>
+## 🌐Connect with me :
+<div align = "center">
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ZyadElna9hy) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ZyadElnaghy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zyadelnaghy) 
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:zyadelnaghy@gmail.com) 
+<a href="https://wa.me/01223342523"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 
-</p>
+</div>
 
-## My Competitive Programming Profiles
-<p align="center">
+# 💻Languages and Tools :
+<div align = "center">
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+</div>
+
+# 💻 Competitive Programming & Problem Solving profiles:
+<p align = "center">
 <a href="https://codeforces.com/profile/zyad_elnaghy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zyad_elnaghy" height="75" width="75" /></a>
 <a href="https://www.leetcode.com/na8y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="na8y" height="75" width="75" /></a>
 <a href="https://www.codechef.com/users/zyad_elnaghy" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/codechef.png" alt="zyad_elnaghy" height="75" width="75" /></a>
 <a href="https://atcoder.jp/users/Zyad_elnaghy" target="blank"><img align="center" src="https://img.atcoder.jp/assets/icon/avatar.png" alt="zyad_elnaghy" height="75" width="75" /></a>
+</p>
 
-## Languages and Tools:
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title ="C" alt="C" width="75" height="75" /> 
-  </a> 
+<br>
+<hr>
+
+### ✍️Random Dev Quote
+<div align = "center">
   
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title ="C++" alt="C++" width="75" height="75"/> 
-  </a> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title ="HTML" width="75" hight="75" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title ="CSS" width="75" hight="75" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title ="JavaScript" width="75" hight="75" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title ="Vs Code" width="75" hight="75" />
-    <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" title ="Git" width="75" hight="75"/>
-</p>
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
- ## Operating Systems:
-<p align="center">
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-</p>
-
- <br> <br> <br> <br>
- <br>
-   
-<div align = "center" >
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zyadelnaghy&show_icons=true&locale=en&layout=compact" alt="zyadelnaghy" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=zyadelnaghy&show_icons=true&locale=en" alt="zyadelnaghy" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zyadelnaghy&" alt="zyadelnaghy" /></p>
+# 📊GitHub Stats :
+<div align = "center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=ZyadElnaghy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ZyadElnaghy&theme=radical&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyadElnaghy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
